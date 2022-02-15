@@ -97,11 +97,11 @@ p {
 
 @media (min-width: 640px) {
 .mainContainer {
-    width: 55%;
+    width: 70%;
     grid-template-columns: repeat(2, 1fr);
     grid-template-areas: "joinDiv joinDiv"
                         "monthlyDiv whyDiv";
-    margin-top: 8rem;
+    margin-top: 11rem;
     }
 }
 
